@@ -1,0 +1,14 @@
+C:\Users\ai_student\source\repos\Household account\Household account\bin\Debug\Household account.exe.config
+C:\Users\ai_student\source\repos\Household account\Household account\bin\Debug\Household account.exe
+C:\Users\ai_student\source\repos\Household account\Household account\bin\Debug\Household account.pdb
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household account.csproj.AssemblyReference.cache
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household account.csproj.SuggestedBindingRedirects.cache
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household_account.Properties.Resources.resources
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household account.csproj.GenerateResource.cache
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household account.csproj.CoreCompileInputs.cache
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household account.exe
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household account.pdb
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household_account.FLogin.resources
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household_account.FIn.resources
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household_account.FOut.resources
+C:\Users\ai_student\source\repos\Household account\Household account\obj\Debug\Household_account.FMain.resources
